@@ -1,0 +1,65 @@
+[33mcommit 38e2df88456887cba592743fab833c381b7d2d26[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: genslei <sqrootls@gmail.com>
+Date:   Wed Feb 23 02:21:20 2022 -0600
+
+    Add intro paragraph on index.html, reduce chef image size, alphabetized unordered list of recipes
+
+[33mcommit 70b9276833b5f5338f8c3398273264a588b5df23[m
+Author: genslei <sqrootls@gmail.com>
+Date:   Wed Feb 23 02:16:20 2022 -0600
+
+    Add titles for each page and change the h1 header for the index.html
+
+[33mcommit 50ed502ddd3ad71110d1bab3f16157f78f2da1ac[m
+Author: genslei <sqrootls@gmail.com>
+Date:   Wed Feb 23 02:12:13 2022 -0600
+
+    Add chef image on index html page
+
+[33mcommit a03d9a84b79fa0ad24257fead975c2658d23fe76[m
+Author: genslei <sqrootls@gmail.com>
+Date:   Wed Feb 23 01:53:32 2022 -0600
+
+    Add 'steps' header and ordered list of directions for each respective recipe on their pages
+
+[33mcommit 0c31fa79b4edd74be9c5e1989703ae961bccc108[m
+Author: genslei <sqrootls@gmail.com>
+Date:   Wed Feb 23 01:40:46 2022 -0600
+
+    Fix spelling error on shepherd's pie description paragraph
+
+[33mcommit a70254c3c6b6093fae1af597e8e314c978e9d21c[m
+Author: genslei <sqrootls@gmail.com>
+Date:   Wed Feb 23 01:39:11 2022 -0600
+
+    Add ingredients header and list for respective recipe pages
+
+[33mcommit fdfcefb45e8a4bf021fb5e1aa9f5175864b34cbd[m
+Author: genslei <sqrootls@gmail.com>
+Date:   Wed Feb 23 01:29:07 2022 -0600
+
+    Add description heading and paragraph
+
+[33mcommit 8ce74fa72c72c33968b0d64ce9e6413a59058998[m
+Author: genslei <sqrootls@gmail.com>
+Date:   Wed Feb 23 01:20:00 2022 -0600
+
+    Remove misspelled shrimp scampi image
+
+[33mcommit 7ad5b33175a16a767b50d84dd267263400a2de57[m
+Author: genslei <sqrootls@gmail.com>
+Date:   Wed Feb 23 01:19:14 2022 -0600
+
+    Add recipe images to respective page and edit misspelled name of shrimp scampi image
+
+[33mcommit f82422e1a26b55a3717a13c5ad72e9b66b677605[m
+Author: genslei <sqrootls@gmail.com>
+Date:   Wed Feb 23 01:12:55 2022 -0600
+
+    Add initial index structure and associates file images and pages
+
+[33mcommit 6776cd8414366589b04cb4363d90ef4fa76f57aa[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Genslei <75192920+Genslei@users.noreply.github.com>
+Date:   Wed Feb 23 00:43:27 2022 -0600
+
+    Initial commit

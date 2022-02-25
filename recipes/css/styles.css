@@ -1,0 +1,30 @@
+body {
+    background-color: #FEFBE9;
+    width: 50%;
+    margin: auto;
+    text-align: justify;
+}
+
+.info,
+.list {
+    color: #183a1d;
+}
+
+img {
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    width: 500px;
+    
+}
+
+.subtitle {
+    color: #183a1d;
+}
+
+.title {
+    color: #b96710;
+    text-align: center;
+}
+
+
